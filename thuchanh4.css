@@ -1,0 +1,152 @@
+/* .truc{
+    position: relative;
+    margin:50px;
+    width:500px;
+    height: 350px;
+}
+.au{
+    position: absolute;
+    top: 19px;
+    left: 23px;
+    background-color: red;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.div{
+    position: absolute;
+    top: 256px;
+    left: 17px;
+    color: white;
+}
+
+.abc{
+    position: absolute;
+    right: 62px;
+    top: 98px;
+    color: white;
+}
+.a {
+    border: 1px solid white;
+    padding: 7px;
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .container{
+    background-image: url("https://thuthuatnhanh.com/wp-content/uploads/2022/06/Hinh-nen-iPad-4K.jpg");
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 500px;
+    padding:20px;
+    position: relative;
+}
+.content    {
+    position: absolute;
+    bottom:42px;
+    color:white;
+}
+.content p{
+    padding: 10px;
+}
+.but{
+    padding:3px;
+    border-radius: 50%;
+    min-width:26px;
+    color: white;
+    background-color: transparent;
+    border:3px solid white;
+} */
+/* 
+.box{
+    width:700px;
+    height: 300px;
+    background-color: rgb(157, 86, 157);
+    border: 6px solid blue;
+    margin-left: 250px;
+    margin-top:100px;
+    padding: 20px;
+    color:white;
+}
+
+.content-header{
+    text-align: right;
+
+}
+
+.lo p{
+    background: rgb(93, 31, 93);
+    padding: 10px;
+    margin-top: -1px;
+}
+
+.header-1{
+    background: rgb(93, 31, 93);
+} */
+/* .a-1{
+    width:700px;
+    height: 300px;
+    background-color: rgb(220, 143, 220);
+    border: 6px solid blue;
+    margin-left: 250px;
+    margin-top:100px;
+    padding: 20px;
+    position: relative;
+}
+.a-2{
+    background-color:white;
+    border-radius:12px;
+    width:270px;
+    height:145px;
+    position: absolute;
+    left: 240px;
+    top: 72px;
+    padding-left: 7px;
+    padding-top: 16px;
+}
+.a4{
+    font-size:12px;
+    position: absolute;
+    right: 9px;
+    top: 4px;
+    background-color: transparent;
+    color: rgb(185, 148, 148);
+}
+.a3{
+    font-size: 12px;
+    padding-top: 8px;
+    color: rgb(185, 148, 148);
+}
+.a6{
+    padding-top: 9px;
+    text-decoration: underline;
+} */
+
+.b1{
+    background-image: url("https://haycafe.vn/wp-content/uploads/2022/04/Cac-hinh-anh-con-vat-de-thuong.jpg");
+    background-repeat: no-repeat;
+    width:800px;
+    height:350px;
+    margin:auto;
+    margin-top: 10px;
+    border:3px solid rgb(117, 61, 61);
+    position: relative;
+    object-fit: contain; 
+}
+.b2{
+background-color:lightgrey;
+position: absolute;
+width:795px;
+height:70px;
+top:153px;
+left:0px;
+text-align: center;
+padding-top: 12px;
+opacity: 0.6;
+}
+p,h3{
+        color:white;
+}
